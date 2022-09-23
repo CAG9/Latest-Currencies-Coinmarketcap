@@ -1,4 +1,5 @@
 # Latest Currencies Coinmarketcap
+Using python and the Coinmarketcap API to get the most recent added cryptocurrencies.
 ## Result
 ![alt text](https://github.com/CAG9/Latest-Currencies-Coinmarketcap/blob/main/Figure_1.png)
 ## Requirements
