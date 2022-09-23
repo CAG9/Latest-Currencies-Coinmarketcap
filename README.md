@@ -7,6 +7,10 @@
 - Python 3
 - requests
 - json
+- datetime
+- pandas
+- seaborn
+- matplotlib
 
 ## More info
 ### Coinmarketcap https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest
