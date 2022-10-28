@@ -13,8 +13,8 @@ Using python and the Coinmarketcap API to get the most recent added cryptocurren
 - pandas
 - seaborn
 - matplotlib
-## LICENSE
-MIT LICENSE
+## License
+MIT License
 ## Author
 Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 ## More info
