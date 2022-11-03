@@ -7,12 +7,12 @@ Using python and the Coinmarketcap API to get the most recent added cryptocurren
 - Coinmarketcap API
 ## Tools and Technologies
 - Python 3
-- requests
-- json
-- datetime
-- pandas
-- seaborn
-- matplotlib
+- Requests
+- Json
+- Datetime
+- Pandas
+- Seaborn
+- Matplotlib
 ## License
 MIT License
 ## Author
