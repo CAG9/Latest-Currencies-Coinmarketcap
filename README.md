@@ -1,4 +1,4 @@
-# Latest Currencies Coinmarketcap
+# Latest Currencies Added to Coinmarketcap
 Using python and the Coinmarketcap API to get the most recent added cryptocurrencies.
 
 ## Result
